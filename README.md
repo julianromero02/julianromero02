@@ -20,15 +20,22 @@
 
 ## 📌 Current Projects
 
-- 🧪 Studying how large language models shape **engineering students' design thinking and argumentation**.
-- 🦷 Using clustering and unsupervised ML to identify **patients who require specialized oral and maxillofacial care**.
-- 📊 Building **modular Python tools** for simulation summaries, statistical testing, and result export to Excel.
+- 🧪 Investigating how **large language models** influence **design thinking and argumentation** in engineering students.
+- 📅 Developing a **machine learning overbooking framework** to optimize outpatient scheduling, aiming to reduce costs from no-show behavior and idle time. The approach integrates **fairness constraints**, **simulation**, and **optimization** techniques.
+- 🏭 Simulating a **smart learning factory** to explore its potential as an educational tool, assess **carbon footprint**, and support **decision-making under disruptions**.
 
----
+## 🗂️ Some Past Projects
+
+- 📚 Evaluated **topic modeling techniques** on large collections of PDFs using both **supervised** and **unsupervised** learning approaches.
+- 📊 Built **modular Python tools** for simulation result analysis, including descriptive statistics, hypothesis testing, and Excel export.
+- 🦷 Applied **clustering and unsupervised machine learning** to patient appointment data to identify individuals likely to need **oral and maxillofacial surgery**.
+- 🚛 Designed a **data ingestion pipeline** to support **fleet management decision-making** in the oil and gas sector, integrating multiple data sources.
+- 🥤 Javeriana Challenge Winner: Optimized distribution costs for a **major beverage company in Bogotá and La Sabana**, achieving a **17% cost reduction** by minimizing idle times and resizing fleet operations using **metaheuristic algorithms**.
+
 
 ## 📬 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/julianromeroj)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/julian-romero-profile/)  
 - 🧑‍💻 ResearchGate / Google Scholar: upon request  
 - 📫 Open to collaboration in research, open-source projects, or applied AI/analytics roles.
 
