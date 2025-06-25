@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Julián Romero
 
-🎓 I’m a graduate student in **Computer and Information Technology** at Purdue University, with a background in **Industrial Engineering**.  
+🎓 I’m a graduate research in **Computer and Information Technology** at Purdue University, with a background in **Industrial Engineering**.  
 🔁 My journey into AI began with a deep interest in **operations research** during my Industrial Engineering training — where solving real-world logistical and optimization problems naturally led me to **machine learning** and **data science**.  
 🔬 Now, my research explores how **Natural Language Processing (NLP)** and **data analytics** can enhance decision-making in domains like education and healthcare.  
 ⚙️ I’ve also worked as a data engineering intern in the **oil and gas industry**, designing pipelines to optimize **fleet transportation services**.  
